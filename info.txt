@@ -4,6 +4,11 @@ java
 python
 docker
 devops
+<<<<<<< HEAD
 jenkins
 c
 azure
+=======
+jenkins
+>>>>>>> parent of 7e3aa7c (c)
+ffff
