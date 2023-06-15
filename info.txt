@@ -1,7 +1,11 @@
+cpp
 aws devops
 java
 python
 docker
 devops
 jenkins
+<<<<<<< HEAD
 c
+=======
+>>>>>>> refs/remotes/origin/main
