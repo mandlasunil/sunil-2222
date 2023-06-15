@@ -7,4 +7,3 @@ devops
 jenkins
 c
 azure
-dddd
